@@ -55,7 +55,7 @@ body{
 
     }
     #HOME{
-
+        width: 100%;
         background:url(codebg.jpg);
         background-repeat:no-repeat ;
         background-size: contain;
@@ -130,6 +130,9 @@ body{
     transform: translateY(1px);
   }
 /* Resume btn */
+#ABOUT{
+    width: 100%;
+}
     .home_pic{
         height: 30%;
         width: 40%;
@@ -177,6 +180,7 @@ body{
     opacity: 0%;
 }
     #SKILL{
+        width: 100%;
         margin-top: 167px;
         /* background-color: #fff; */
         /* background: url(skillbg.jpg) ; */
@@ -221,7 +225,9 @@ body{
         filter: none;
         transform: translateY(-11px);
     }
-     
+     #CONTACT{
+         width: 100%;
+     }
     
     .form{
         background-color: antiquewhite;
